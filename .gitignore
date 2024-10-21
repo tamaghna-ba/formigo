@@ -25,4 +25,4 @@ yarn-error.log*
 #other system related
 .idea/
 package-lock.json
-.workspace
+.vscode/
